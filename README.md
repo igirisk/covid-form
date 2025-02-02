@@ -1,4 +1,4 @@
-# Software Engineer GCC 2.0 Internship Tech Test Submission - Joshua Voo Qi Feng
+# Software Engineer GCC 2.0 Internship Tech Test Submission
 
 ## How to run this project
 
